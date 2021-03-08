@@ -1,5 +1,7 @@
 ![](https://res.cloudinary.com/wesbos/image/upload/v1515524452/GRID-social-share_wlfzk3.png)
 
+<!-- start -->
+
 # CSS Grid Video Course
 
 Hey! These are the starter files and finished solutions. Grab the full course over at [CSSGrid.io](https://CSSGrid.io).
@@ -28,10 +30,10 @@ Make sure to turn off both "Use recommended performance settings" & "Use hardwar
 
 Feel free to submit a PR adding a link to your own recaps, guides or reviews!
 
-* [Course Review](https://www.bencodezen.io/blog/review-css-grid-with-wes-bos/) by [@bencodezen](https://www.twitter.com/bencodezen)
-* [Recap and lessons learned](https://marcokuehbauch.com/blog/learning-css-grid/) by [@mkuehb](https://twitter.com/Mkuehb)
-* [cssgrid.io course review](https://krzysztofzuraw.com/blog/2020/css-grid-io-course) by [@krzysztof_zuraw](https://twitter.com/krzysztof_zuraw)
-* My [gh-page](https://herminiotorres.github.io/cssgrid) by [@herminiotorres](https://twitter.com/herminiotorres)
+- [Course Review](https://www.bencodezen.io/blog/review-css-grid-with-wes-bos/) by [@bencodezen](https://www.twitter.com/bencodezen)
+- [Recap and lessons learned](https://marcokuehbauch.com/blog/learning-css-grid/) by [@mkuehb](https://twitter.com/Mkuehb)
+- [cssgrid.io course review](https://krzysztofzuraw.com/blog/2020/css-grid-io-course) by [@krzysztof_zuraw](https://twitter.com/krzysztof_zuraw)
+- My [gh-page](https://herminiotorres.github.io/cssgrid) by [@herminiotorres](https://twitter.com/herminiotorres)
 
 ## A note on Pull Requests
 
@@ -45,14 +47,14 @@ Thanks!
 
 I recommend you use the files in the repo, but if you prefer to use JSFiddle instead, here are all the starter files ready to go:
 
-02. [Starter Files and Tooling Setup](https://jsfiddle.net/6qvwur9q/)
-03. [CSS Grid Fundamentals](https://jsfiddle.net/qxxpgg4j/)
-04. [CSS Grid Dev Tools](https://jsfiddle.net/b55x8vh2/)
-05. [CSS Grid Implicit vs Explicit Tracks](https://jsfiddle.net/mon8xdgb/)
-06. [CSS grid-auto-flow Explained](https://jsfiddle.net/Loq4uj16/)
-07. [Sizing tracks in CSS Grid](https://jsfiddle.net/q8h3r8yb/)
-08. [CSS Grid repeat function](https://jsfiddle.net/8f8xyx86/)
-09. [Sizing Grid Items](https://jsfiddle.net/wqs6tcuk/)
+2.  [Starter Files and Tooling Setup](https://jsfiddle.net/6qvwur9q/)
+3.  [CSS Grid Fundamentals](https://jsfiddle.net/qxxpgg4j/)
+4.  [CSS Grid Dev Tools](https://jsfiddle.net/b55x8vh2/)
+5.  [CSS Grid Implicit vs Explicit Tracks](https://jsfiddle.net/mon8xdgb/)
+6.  [CSS grid-auto-flow Explained](https://jsfiddle.net/Loq4uj16/)
+7.  [Sizing tracks in CSS Grid](https://jsfiddle.net/q8h3r8yb/)
+8.  [CSS Grid repeat function](https://jsfiddle.net/8f8xyx86/)
+9.  [Sizing Grid Items](https://jsfiddle.net/wqs6tcuk/)
 10. [Placing Grid Items](https://jsfiddle.net/hs5xhvpp/)
 11. [Spanning and Placing Cardio](https://jsfiddle.net/2z7z6o9k/)
 12. [auto-fit and auto-fill](https://jsfiddle.net/d1pLngzx/)
